@@ -38,7 +38,7 @@ This project predicts house prices using regression techniques like Linear, Ridg
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/house-price-prediction_using_regression.git
+   git clone https://github.com/Ashutosh45-Iet/house-price-prediction_using_regression.git
    cd house-price-prediction_using_regression
    
 ---
